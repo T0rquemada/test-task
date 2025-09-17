@@ -1,7 +1,7 @@
 ## Test Task
 
 ## To run locally
-1. git clone
+1. git clone https://github.com/T0rquemada/test-task.git
 2. Get .env file: ```mv .env.example .env```
 3. Fill next fields in .env, with credentials from [Data For Seo API](https://app.dataforseo.com):
     - DFS_LOGIN
