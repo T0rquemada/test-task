@@ -12,6 +12,6 @@
 7. Install npm dependencies: ```npm install```
 8. Run vite: ```npm run dev```
 9. Run dev server: ```php artisan serve```
-Important: you need run vite and dev server together
+- Important: you need run vite and dev server together
 
 Search logic placed in [SearchController.php](app/Http/Controllers/SearchController.php)
